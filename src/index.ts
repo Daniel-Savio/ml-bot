@@ -24,7 +24,7 @@ client.on("ready", async () => {
 
     setInterval(() => {
         changePermissions(client, guildId);
-    }, 10000);
+    }, 15000);
 
 });
 
